@@ -1,0 +1,20 @@
+[
+    {
+        "folder": "Anime",
+        "title": "Anime",
+        "cover": "https://i.ebayimg.com/images/g/zcoAAOSw6f5hFiAv/s-l1200.jpg",
+        "description": "Hindi"
+    },
+    {
+        "folder": "Animax",
+        "title": "Animax",
+        "cover": "https://i1.sndcdn.com/artworks-000187379556-eavtt0-t500x500.jpg",
+        "description": "Japanese"
+    },
+    {
+        "folder": "My Mix",
+        "title": "My Mix",
+        "cover": "https://c.saavncdn.com/821/Dil-Tu-Jaan-Tu-Female-Version-Punjabi-2025-20250120114407-500x500.jpg",
+        "description": "Hindi"
+    }
+]
